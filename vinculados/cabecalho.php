@@ -22,7 +22,7 @@
                 <li><a href="galeria.php">Galeria</a></li>
                 <li><a href="noticias.php">Noticias</a></li>
                 <li><a href="Contatos.php">Contatos</a></li>
-                <!-- <li><a href="login.php">Login</a></li> -->
+                <li><a href="login.php">Login</a></li>
                 </ul>
             </nav>
             </div>
