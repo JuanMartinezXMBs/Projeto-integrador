@@ -11,7 +11,7 @@
     <header class="nowrap">
 
             <div class="logo">
-            <h1><a href="index.html"><img src="" alt=""></a>CHURCH</h1>
+            <h1><a href="index.php"><img src="" alt=""></a>CHURCH</h1>
             </div>
 
             <div class="menu">
