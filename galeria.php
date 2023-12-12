@@ -30,7 +30,7 @@ require "vinculados/cabecalho.php";
     <div class="box container1">
     <h2>Culto Kids</h2>
     
-    <p>Nossa Igreja conta com uma área para as crianças destinada para seu aprendizado das Escrituras Sagradas de uma forma lúdica e interativa. Os cultos Kids ocorrem todo Sábado</p>
+    <p>Nossa Igreja conta com uma área para as crianças destinada para seu aprendizado das Escrituras Sagradas de uma forma lúdica e interativa. Os cultos Kids ocorrem todos os Sábados</p>
     </div>
 
     <div class="box container1">
