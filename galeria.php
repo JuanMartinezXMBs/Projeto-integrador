@@ -44,15 +44,15 @@
     </div>
     
     <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
+    <h2>A comunidade</h2>
     
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
     </div>
 
     <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
+    <h2>Culto Kids</h2>
     
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
+    <p>Nossa Igreja conta com uma área para as crianças destinada para seu aprendizado das Escrituras Sagradas de uma forma lúdica e interativa. Os cultos Kids ocorrem todo Sábado</p>
     </div>
 
     <div class="box container1">
@@ -73,6 +73,7 @@
     </div>
 </main>
     <footer>
+        <br>
 <p>Simplicity é um site fictício desenvolvido para fins educacionais por alunos do Curso Programador Web - 2023 &copy; <b>Senac Penha</b> - <time>2023</time>   </p>
     </footer>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
