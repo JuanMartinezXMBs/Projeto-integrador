@@ -6,7 +6,8 @@
     <title>Galeria</title>
     <link rel="stylesheet" href="lightbox/css/lightbox.min.css">
 
-    <link rel="stylesheet" href="css/estilos.css">
+    
+    <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
     <header>
