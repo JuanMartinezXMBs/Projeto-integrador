@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 require "";
 require "";
 require "";
@@ -86,3 +87,18 @@ if (isset($_POST['entrar'])) {
 <?php
 require_once "";
 ?>
+=======
+require "vinculados/cabecalho.php";
+?>
+    <main>
+    <div>
+
+    <h2>lOGIN</h2>
+
+    </div>
+</main>
+
+<?php 
+require_once "vinculados/rodape.php";
+?>
+>>>>>>> 605806c196730a7caa846a3be15221c38b2e6578

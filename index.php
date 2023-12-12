@@ -16,7 +16,7 @@ require "vinculados/cabecalho.php";
         </h2>
         <br>
         <p>
-            Sábado: 17h | Domingo: 9h30 - 11h30 - 16h30
+            Sábado: 17h | Domingo: 9h30 - 11h30 - 16h30 -
             18h30 e 20h30 | Segunda: 20h30
         </p>
     </div>
