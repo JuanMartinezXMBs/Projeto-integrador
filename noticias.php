@@ -8,19 +8,26 @@
     <link rel="stylesheet" href="/CSS/estilo.css">
 </head>
 <body>
-    <header>
-        <div class="limitador">
-            <h1><a href="index.html">CHURCH</a></h1>
-            <nav>
-                <a href="quem-somos.html">Quem somos</a>
-                <a href="projetos.html">Projetos</a>
-                <a href="galeria.html">Galeria</a>
-                <a href="noticias.html">Noticias</a>
-                <a href="Contatos.html">Contatos</a>
-                <!-- <a href="login.html">Login</a> -->
-            </nav>
-        </div>
-    </header>
+<header class="nowrap">
+
+    <div class="logo">
+    <h1><a href="index.html"><img src="" alt=""></a>CHURCH</h1>
+    </div>
+
+    <div class="menu">
+    <nav>
+        <ul>
+        <li><a href="quem-somos.php">Quem somos</a></li>
+        <li><a href="projetos.php">Projetos</a></li>
+        <li><a href="galeria.php">Galeria</a></li>
+        <li><a href="noticias.php">Noticias</a></li>
+        <li><a href="Contatos.php">Contatos</a></li>
+        <!-- <li><a href="login.php">Login</a></li> -->
+        </ul>
+    </nav>
+    </div>
+
+</header>
 
     <main>
     <div class="centralizar ">
