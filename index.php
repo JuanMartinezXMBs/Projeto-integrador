@@ -34,5 +34,5 @@ require "vinculados/cabecalho.php";
 </main>
 
 <?php 
-require_once "inc/rodape.php";
+require_once "vinculados/rodape.php";
 ?>
