@@ -147,6 +147,7 @@ footer {
     bottom: 0;
     width: 100%;
     padding-bottom: 20px;
+    position: fixed;
     
     display: flex;
     align-items: center;
@@ -161,7 +162,26 @@ footer {
     border: 0;
 }
 
-.mapa {
-    
+.login {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    color: black;
 }
-    
+
+.botao {
+    background-color:#01719e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
