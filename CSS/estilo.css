@@ -14,15 +14,22 @@ body, h1, h2, p, figure {
 
 }
     .foto {
-    width: 200px;
+    width: 300px;
+    height: auto;
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 200px;
-    border: black 5px;
+    justify-content: space-around;
+    margin: 20px;
+    border: black 5px 1px 5px;
     border-radius: 25%;
 }
+
+.warpcentralizar {
+    display: flex;  
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 /* fim do css da galeria */
 .centralizar {
     margin: 20px;
