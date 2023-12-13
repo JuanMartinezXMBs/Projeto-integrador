@@ -1,8 +1,7 @@
 <?php
 require "vinculados/cabecalho.php";
 ?>
-    <!-- Importando o CSS do plugin Lightbox -->
-    <link rel="stylesheet" href="./plugin-css-lightbox/lightbox.css">
+<link rel="stylesheet" href="./plugin-css-lightbox/lightbox.css">
 <h1 class="titulodagaleria">
     <p>GALERIA DE FOTOS</p>
 </h1>
@@ -11,7 +10,7 @@ require "vinculados/cabecalho.php";
 
 <div class="foto">
     <figure class="primeira_foto">
-        <img src="./imagens-editadas/foto_2.jpg" width="100%" alt="">
+    <img src="./imagens-editadas/foto_2.jpg" width="100%" alt="">
     </figure>
 </div>
 <div class="foto">
@@ -47,7 +46,10 @@ require "vinculados/cabecalho.php";
 </div>
 <div class="foto">
     <figure class="oitava_foto">
-    <img src="./imagens-editadas/foto_9_editada.jpg" alt="">
+        <a href="./imagens-editadas/foto_9_editada.jpg">
+
+            <img src="./imagens-editadas/foto_9_editada-mini.jpg" alt="">
+        </a>
     </figure>
 </div>
 <div class="foto">
@@ -144,10 +146,9 @@ require "vinculados/cabecalho.php";
     <img src="./imagens-editadas/foto_1_editada.jpg" alt="">
     </figure>
 </div>
-    <!-- IMPORTAÇÃO DA BIBLIOTECA JQUERY -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
-<!-- Importação do JS do plugin/extensão LIGHTBOX -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 <script src="lightbox/js/lightbox.min.js"></script> 
 
 <script>
