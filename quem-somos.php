@@ -39,34 +39,20 @@ Tania Maria da S. S. Checca. </p>
 <p>A visão da nossa igreja está pautada em sentimentos que Deus foi colocando ao longo do tempo no coração de sua liderança. Queremos ser uma igreja que cresce em direção a Deus, num compromisso sério com Ele, buscando conhecê-Lo na Sua intimidade, poder, Graça e em Sua força.</p> 
 
 <h3>Proposito </h3>
+
+<ul>
+
+<li>Agradar e glorificar a Deus  </li>
+
+<li>Ter profunda intimidade com Deus  </li>
+
+<li>Levar a mensagem de Deus a todos </li> 
+
+</ul>
         
     </div>
     
-    <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
     
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
-    <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
-    <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
-    <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
-    </div>
     <div class="box1 "></div>
 
     </div>
