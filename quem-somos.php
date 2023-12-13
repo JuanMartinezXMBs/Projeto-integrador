@@ -16,7 +16,7 @@ require "vinculados/cabecalho.php";
             QUEM SOMOS 
         </h2>
         <p class="centralizar">
-        A CHURCH é uma igreja muito receptiva e cuidadosa com todos os seus membros e não membros, somos uma grande família! </p>
+        A <strong>Plena Paz </strong>  é uma igreja muito receptiva e cuidadosa com todos os seus membros e não membros, somos uma grande família! </p>
 
 
         <p class="centralizar" >Nossos cultos são sempre bem alegres, e como muitos louvores e adoração a Deus. </p>
@@ -25,7 +25,7 @@ require "vinculados/cabecalho.php";
 
         <p class="centralizar">Com certeza ficara marcado em sua vida. </p>
 
-        <p class="centralizar">A CHURCH é o fruto de um sonho de Deus para o coração do Pastor Presidente Flavio Checca e a sua esposa Pastora e Missionaria  
+        <p class="centralizar">A Plena Paz é o fruto de um sonho de Deus para o coração do Pastor Presidente Flavio Checca e a sua esposa Pastora e Missionaria  
 Tania Maria da S. S. Checca. </p>
 
 <p class="centralizar" >Você e sua família são os nossos convidados especiais. </p>
