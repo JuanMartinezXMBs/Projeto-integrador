@@ -6,6 +6,7 @@
     <title>CHURCH</title>
 
     <link rel="stylesheet" href="css/estilo.css">
+
 </head>
 <body>
     <header class="nowrap">
