@@ -41,14 +41,12 @@ require "vinculados/cabecalho.php";
 </div>
 <div class="foto">
     <figure class="setima_foto">
-    <img src="./imagens-editadas/foto_8_editada.jpg" alt="">
+    <a href="./imagens-editadas/foto_8_editada.jpg"></a><img src="./imagens-editadas-mini/foto_8_editada_mini.png" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="oitava_foto">
-        <a href="./imagens-editadas/foto_9_editada.jpg">
-
-            <img src="./imagens-editadas/foto_9_editada-mini.jpg" alt="">
+        <a href="./imagens-editadas/foto_9_editada.jpg"><img src="./imagens-editadas-mini/foto_9_editada_mini.png" alt="">
         </a>
     </figure>
 </div>
