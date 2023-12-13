@@ -18,16 +18,14 @@ require "vinculados/cabecalho.php";
         
     </div>
     
-    <div class="box container1">
-        
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
+    <div class="box2">
+            <figure>
+                <img src="imagens/imagem_05_jesus.jpg" alt="">
+            </figure>
+            <h2 class="texto">Centro de Cuidado Pastoral </h2>
+        </div>
     
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
     
-    </div>
-    <div class="box1 "></div>
 
     </div>
 </main>
