@@ -16,15 +16,13 @@ require "vinculados/cabecalho.php";
             QUEM SOMOS 
         </h2>
         <p class="centralizar">
-        A <strong>Plena Paz </strong>  é uma igreja muito receptiva e cuidadosa com todos os seus membros e não membros, somos uma grande família! </p>
+        A <strong>Plena Paz </strong>  é uma igreja muito receptiva e cuidadosa com todos os seus membros e não membros, somos uma grande família! Nossos cultos são sempre bem alegres, e como muitos louvores e adoração a Deus.</p>
 
 
-        <p class="centralizar" >Nossos cultos são sempre bem alegres, e como muitos louvores e adoração a Deus. </p>
+        
+        <p class="centralizar" >Nossas ministrações sempre com o intuito de levar a verdadeira mensagem de Deus para todos os ouvintes.Com certeza ficara marcado em sua vida.</p> 
 
-        <p class="centralizar" >Nossas ministrações sempre com o intuito de levar a verdadeira mensagem de Deus para todos os ouvintes.</p> 
-
-        <p class="centralizar">Com certeza ficara marcado em sua vida. </p>
-
+        
         <p class="centralizar">A Plena Paz é o fruto de um sonho de Deus para o coração do Pastor Presidente Flavio Checca e a sua esposa Pastora e Missionaria  
 Tania Maria da S. S. Checca. </p>
 
