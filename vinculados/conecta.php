@@ -1,20 +1,19 @@
 <?php
 
+
 $servidor = "localhost";
-$usuario = "root";
-$senha = "";
+$usuario = "seu_usuario";
+$senha = "sua_senha";
 $banco = "projeto_integrador";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $banco);
 
-mysqli_set_charset($conexao, "utf8");
-
 if( !$conexao ){
-    die("deu ruim".mysqli_connect_error());
-}else{} 
+die("deu ruim".mysqli_connect_error());
+}else{}
 
-
-
+echo "Conexão bem-sucedida!";
+?>
 
 
 
