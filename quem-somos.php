@@ -7,18 +7,39 @@ require "vinculados/cabecalho.php";
 
     <div class="box">
         <figure>
-            <img src="imagens/respingo-colorido-abstrato-3d-background-generativo-ai-background_60438-2509.avif" alt="">
+            <img src="imagens/imagem_02_homem.jpg" alt="">
         </figure>
     </div>
 
     <div class="centralizar box horarios">
         <h2>
-            CAMPUS ANÁLIA FRANCO 
+            QUEM SOMOS 
         </h2>
         <p>
-            Sábado: 17h | Domingo: 9h30 - 11h30 - 16h30
-            18h30 e 20h30 | Segunda: 20h30
-        </p>
+        A CHURCH é uma igreja muito receptiva e cuidadosa com todos os seus membros e não membros, somos uma grande família! </p>
+
+
+        <p>Nossos cultos são sempre bem alegres, e como muitos louvores e adoração a Deus. </p>
+
+        <p>Nossas ministrações sempre com o intuito de levar a verdadeira mensagem de Deus para todos os ouvintes.</p> 
+
+        <p>Com certeza ficara marcado em sua vida. </p>
+
+        <p>A CHURCH é o fruto de um sonho de Deus para o coração do Pastor Presidente Flavio Checca e a sua esposa Pastora e Missionaria  
+Tania Maria da S. S. Checca. </p>
+
+<p>Você e sua família são os nossos convidados especiais. </p>
+
+<h3>Missão </h3>
+
+<p>Ganhar mais vidas para o reino de Deus e que sejam transformados e impactados para que também possam compartilhar dessa graça transformadora. </p>
+
+<h3>Visão </h3>
+
+<p>A visão da nossa igreja está pautada em sentimentos que Deus foi colocando ao longo do tempo no coração de sua liderança. Queremos ser uma igreja que cresce em direção a Deus, num compromisso sério com Ele, buscando conhecê-Lo na Sua intimidade, poder, Graça e em Sua força.</p> 
+
+<h3>Proposito </h3>
+        
     </div>
     
     <div class="box container1">
