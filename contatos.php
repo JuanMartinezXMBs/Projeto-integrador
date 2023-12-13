@@ -16,7 +16,7 @@ require "vinculados/cabecalho.php";
             CONTATOS
         </h2>
         <p>
-            
+        <strong>Endereço :</strong> Rua Pascoal Mangueira, 200 - Vila Mariana- São Paulo - SP 
         </p>
     </div>
     
