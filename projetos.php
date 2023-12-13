@@ -19,29 +19,13 @@ require "vinculados/cabecalho.php";
     </div>
     
     <div class="box container1">
+        
     <h2>Lorem ipsum dolor sit amet consectetur</h2>
     
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
     </div>
 
-    <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
     
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
-    <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
-    <div class="box container1">
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
-
     </div>
     <div class="box1 "></div>
 
