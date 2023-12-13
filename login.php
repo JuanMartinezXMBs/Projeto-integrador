@@ -1,8 +1,9 @@
 <?php
 require "vinculados/cabecalho.php";
 ?>
+
     <main>
-    <div>
+    <div class="centralizar login conteudo">
 
     <h2>lOGIN</h2>
 
@@ -18,11 +19,13 @@ require "vinculados/cabecalho.php";
 					<input required class="form-control" type="password" id="senha" name="senha">
 				</div>
 
-				<button class="btn btn-primary btn-lg" name="entrar" type="submit">Entrar</button>
+				<button class="botao btn btn-primary btn-lg" name="entrar" type="submit">Entrar</button>
 
 			</form>
 
     </div>
+
+	<div class="box1 "></div> <!-- espaço vazio -->
 </main>
 
 <?php 
