@@ -7,7 +7,7 @@ require "vinculados/cabecalho.php";
 
     <div class="box">
         <figure>
-            <img src="imagens/respingo-colorido-abstrato-3d-background-generativo-ai-background_60438-2509.avif" alt="">
+            <img src="imagens/imagem_03_biblia.jpg" alt="">
         </figure>
     </div>
 
@@ -16,7 +16,7 @@ require "vinculados/cabecalho.php";
             CONTATOS
         </h2>
         <p>
-            
+        <strong>Endereço :</strong> Rua Pascoal Mangueira, 200 - Vila Mariana- São Paulo - SP 
         </p>
     </div>
     
