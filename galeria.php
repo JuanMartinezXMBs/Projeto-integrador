@@ -1,7 +1,8 @@
 <?php
 require "vinculados/cabecalho.php";
 ?>
-
+    <!-- Importando o CSS do plugin Lightbox -->
+    <link rel="stylesheet" href="./plugin-css-lightbox/lightbox.css">
 <h1 class="titulodagaleria">
     <p>GALERIA DE FOTOS</p>
 </h1>
@@ -143,7 +144,19 @@ require "vinculados/cabecalho.php";
     <img src="./imagens-editadas/foto_1_editada.jpg" alt="">
     </figure>
 </div>
+    <!-- IMPORTAÇÃO DA BIBLIOTECA JQUERY -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
+<!-- Importação do JS do plugin/extensão LIGHTBOX -->
+<script src="lightbox/js/lightbox.min.js"></script> 
+
+<script>
+lightbox.option({
+    albumLabel: "Foto %1 de %2"
+})
+</script>
+
+<script src="js/menu.js"></script>
 
 <?php
 require_once "vinculados/rodape.php";
