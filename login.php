@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 require "vinculados/cabecalho.php";
 ?>
@@ -29,5 +28,3 @@ require "vinculados/cabecalho.php";
 <?php 
 require_once "vinculados/rodape.php";
 ?>
-=======
->>>>>>> 5437159eaff02ceeda02d2b31a445226d9b59b58
