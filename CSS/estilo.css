@@ -34,7 +34,7 @@ body {
 }
 
 .container1 {
-    background-image: url('../imagens/images.jfif');
+    background-image: url('../imagens-editadas/foto-38-editada.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -121,4 +121,12 @@ footer {
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+.titulodagaleria{
+    margin: 50%;
+    text-align: center;
+    font-weight: 400;
+    justify-content: center;
+
 }
