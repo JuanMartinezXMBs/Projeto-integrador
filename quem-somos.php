@@ -23,7 +23,7 @@ require "vinculados/cabecalho.php";
         <p class="centralizar" >Nossas ministrações sempre com o intuito de levar a verdadeira mensagem de Deus para todos os ouvintes.Com certeza ficara marcado em sua vida.</p> 
 
         
-        <p class="centralizar">A Plena Paz é o fruto de um sonho de Deus para o coração do Pastor Presidente Flavio Checca e a sua esposa Pastora e Missionaria  
+        <p class="centralizar">A<strong>Plena Paz </strong> é o fruto de um sonho de Deus para o coração do Pastor Presidente Flavio Checca e a sua esposa Pastora e Missionaria  
 Tania Maria da S. S. Checca. </p>
 
 
