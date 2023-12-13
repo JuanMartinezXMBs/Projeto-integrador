@@ -7,7 +7,7 @@ require "vinculados/cabecalho.php";
 
     <div class="box">
         <figure>
-            <img src="imagens/respingo-colorido-abstrato-3d-background-generativo-ai-background_60438-2509.avif" alt="">
+            <img src="imagens/imagem_04_cruz.jpg" alt="">
         </figure>
     </div>
 
