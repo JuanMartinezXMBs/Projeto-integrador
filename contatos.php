@@ -13,12 +13,9 @@ require "vinculados/cabecalho.php";
 
     <div class="centralizar box horarios">
         <h2>
-            CAMPUS ANÁLIA FRANCO 
+            CONTATOS
         </h2>
-        <p>
-            Sábado: 17h | Domingo: 9h30 - 11h30 - 16h30
-            18h30 e 20h30 | Segunda: 20h30
-        </p>
+        
     </div>
     
     <div class="box container1">
