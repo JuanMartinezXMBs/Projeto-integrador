@@ -80,126 +80,70 @@ require "vinculados/cabecalho.php";
     </figure>
 </div>
 <div class="foto">
-    <figure class="decimaquinta_foto">
-    <img src="./imagens-editadas/foto_1_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
     <figure class="decimasexta_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_23_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="decimasetima_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_24_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="decimaoitava_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_25_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="decimanona_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
-    <figure class="vigesima_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
-    <figure class="vigesimaprimeira_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_26_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="vigesimasegunda_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_29_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="vigesimaterceira_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
-    <figure class="vigesimaquarta_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_30_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="vigesimaquinta_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_32_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="vigesimasexta_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_33_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="vigesimasetima_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_34_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="vigesimaoitava_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_35_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="vigesimanona_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div>
-    <figure class="trigesima_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_36_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure class="trigesimaprimeira_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <img src="./imagens-editadas/foto_38_editada.jpg" alt="">
     </figure>
-</div>
 <div class="foto">
-    <figure class="trigesimasegunda_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
+    <figure class="decimaquinta_foto">
+    <img src="./imagens-editadas/foto_1_editada.jpg" alt="">
     </figure>
 </div>
-<div class="foto">
-    <figure class="trigesimaterceira_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
-    <figure class="trigesimaquarta_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
-    <figure class="trigesimaquinta_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">   
-    </figure>
-</div>
-<div class="foto">
-    <figure class="trigesimasexta_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
-    <figure class="trigesimasetima_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-<div class="foto">
-    <figure class="trigesimaoitava_foto">
-    <img src="./imagens-editadas/foto_7_editada.jpg" alt="">
-    </figure>
-</div>
-</div>
+
 
 <?php
 require_once "vinculados/rodape.php";
