@@ -18,16 +18,34 @@ require "vinculados/cabecalho.php";
         
     </div>
     
-    <div class="box container1">
-        
-    <h2>Lorem ipsum dolor sit amet consectetur</h2>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-    </div>
+    <div class="box2">
+            <figure>
+            <a href="erro.php"><img src="imagens/centro_cuidado.jpg" alt=""></a>  
+            </figure>
+            <h2 class="texto"><a href="erro.php">Centro de Cuidado Pastoral </a></h2>
+        </div>
+
+        <div class="box2">
+            <figure>
+            <a href="erro.php"><img src="imagens/cuidando_kids.jpg" alt=""></a>
+            </figure>
+            <h2 class="texto"><a href="erro.php">Educando as Nossas Crianças (Quiz) </a></h2>
+</div>
+<div class="box2">
+            <figure>
+            <a href="erro.php"><img src="imagens/projeto_resgate.jpg" alt=""></a> 
+            </figure>
+            <h2 class="texto"><a href="erro.php">Projeto Resgate </a></h2>
+        </div>
+        <div class="box2">
+            <figure>
+            <a href="erro.php"><img src="imagens/caminhando_estradas.jpg" alt=""></a>
+            </figure>
+            <h2 class="texto"> <a href="erro.php">Caminhando pelas Estradas </a> </h2>
+        </div>
+
 
     
-    </div>
-    <div class="box1 "></div>
 
     </div>
 </main>
