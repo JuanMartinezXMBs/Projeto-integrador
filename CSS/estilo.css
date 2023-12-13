@@ -4,13 +4,23 @@ body, h1, h2, p, figure {
     margin: 0;
     padding: 0;
 }
-
+/* css da galeria */
 .titulodagaleria{
     text-align: center;
     font-weight: 400;
     justify-content: center;
 
 }
+.foto {
+    width: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+    border: black 5px;
+    border-radius: 25%;
+}
+/* fim do css da galeria */
 .centralizar {
     margin: 20px;
     display: flex;
@@ -134,10 +144,3 @@ footer {
     flex-direction: column;
 }
 
-.foto {
-    flex-wrap: wrap;
-    display: flex;
-    margin: 20px;
-    border: black 5px;
-    border-radius: 25%;
-}

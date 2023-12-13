@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="estilos.css">
+<link rel="stylesheet" href="./css/estilo.css">
 <?php
 require "vinculados/cabecalho.php";
 ?>
@@ -12,17 +12,17 @@ require "vinculados/cabecalho.php";
 </div>
 <div class="foto">
     <figure  class="segunda_foto">
-
+    <img src="./imagens-editadas/foto_3_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure  class="terceira_foto">
-
+    <img src="./imagens-editadas/foto_4_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
     <figure  class="quarta_foto">
-
+    <img src="./imagens-editadas/foto_5_editada.jpg" alt="">
     </figure>
 </div>
 <div class="foto">
