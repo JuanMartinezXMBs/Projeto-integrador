@@ -153,3 +153,13 @@ footer {
     flex-direction: column;
 }
 
+.menuf ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    border: 0;
+}
+
+
+    
