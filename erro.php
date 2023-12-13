@@ -15,7 +15,7 @@ require "vinculados/cabecalho.php";
         <h2>
             EM BREVE ESTAREMOS COLOCANDO O NOSSO PROJETO NO AR 
         </h2>
-        
+        <h3>Se quiser retornar, clique <a href ="index.php"><em>AQUI</em></a> </h3>
     </div>
     
     
