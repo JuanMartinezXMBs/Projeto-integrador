@@ -1,7 +1,9 @@
-<link rel="stylesheet" href="./css/estilo.css">
 <?php
 require "vinculados/cabecalho.php";
 ?>
+<head>
+<link rel="stylesheet" href="./css/estilo.css">
+</head>
 <h1 class="titulodagaleria">
     <p>GALERIA DE FOTOS</p>
 </h1>
@@ -27,6 +29,7 @@ require "vinculados/cabecalho.php";
 </div>
 <div class="foto">
     <figure class="quinta_foto">
+        <img src="./imagens-editadas/foto_6_editada.jpg" alt="">
 
     </figure>
 </div>
