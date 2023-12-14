@@ -31,8 +31,8 @@ require "vinculados/cabecalho.php";
             </div>
 
         </div>
-
-        <div class="box teste container1">
+        <div class="todas-as-noticias">
+        <div class="box teste container2">
 
             <div class="color">
                 <div>
@@ -46,34 +46,34 @@ require "vinculados/cabecalho.php";
 
         </div>
 
-        <div class="box teste container1">
+        <div class="box teste container3">
 
             <div class="color">
                 <div>
-                    <h2>Lorem ipsum dolor sit amet consectetur</h2>
+                    <h2>O Conhecimento de Deus, uma Verdade Consoladora</h2>
                 </div>
 
                 <div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
+                    <p>“O Senhor é bom, é fortaleza no dia da angústia e conhece os que nele se refugiam” (Na 1.7). Vamos analisar essas três verdades.</p>
                 </div>
             </div>
 
         </div>
 
-        <div class="box teste container1">
+        <div class="box teste container4">
 
             <div class="color">
                 <div>
-                    <h2>Lorem ipsum dolor sit amet consectetur</h2>
+                    <h2>Os Pilares da Reforma Protestante</h2>
                 </div>
 
                 <div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
+                    <p>A Reforma Protestante foi o maior acontecimento na igreja cristã depois do Pentecostes.</p>
                 </div>
             </div>
 
         </div>
-
+        </div>
     </div>
     <div class="box1 "></div>
 
