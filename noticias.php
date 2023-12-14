@@ -22,11 +22,11 @@ require "vinculados/cabecalho.php";
 
             <div class="color">
             <div>
-                <h2>Lorem ipsum dolor sit amet consectetur</h2>
+                <h2>Nossa missão em São Paulo</h2>
             </div>
 
             <div >
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
+                <p>Deus tem uma missão para seu povo que mora nas grandes cidades. Deus tem missão urbana para a Igreja que fica na cidade de São Paulo.</p>
             </div>
             </div>
 
