@@ -2,9 +2,9 @@
 
 
 $servidor = "localhost";
-$usuario = "seu_usuario";
-$senha = "sua_senha";
-$banco = "projeto_integrador";
+$usuario = "root";
+$senha = "";
+$banco = "plena_paz";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $banco);
 
