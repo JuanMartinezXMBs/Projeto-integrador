@@ -39,14 +39,6 @@ $pagina = basename($_SERVER['PHP_SELF']);
             <li class="nav-item">
                 <a class="nav-link" href="../index.php">Home</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="meu-perfil.php">Meu perfil</a>
-            </li>
-
-            
-            <li class="nav-item">
-              <a class="nav-link" href="usuarios.php">Usuários</a>
-            </li>
             
             <li class="nav-item">
                 <a class="nav-link" href="noticias.php">Notícias</a>

@@ -19,6 +19,7 @@
             </nav>
             </div>
 </footer>
-</body>
 
+<script src="js/menu.js"></script>
+</body>
 </html>

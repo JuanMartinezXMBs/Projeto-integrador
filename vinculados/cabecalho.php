@@ -12,7 +12,7 @@
     <header class="nowrap">
 
             <div class="logo">
-            <h1><a href="index.php">Plena Paz.</a></h1>
+            <h1><a href="index.php"><img src="logo.png" alt=""></a></h1>
             </div>
 
             <div class="menu">
