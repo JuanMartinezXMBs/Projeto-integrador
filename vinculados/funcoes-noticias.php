@@ -2,7 +2,7 @@
 require "conecta.php";
 
 /* Usada em noticia-insere.php */
-function lerNoticias($conexao, $idUsuario){
+function lerNoticias($conexao){
     
     
         // SQL do admin: pode carregar/ver TUDO de TODOS
@@ -53,7 +53,7 @@ function upload($arquivo){
     $temporario = $arquivo['tmp_name'];
 
     //Definindo para onde a imagem vai e com qual nome
-    $destino = "../imagens".$nome;
+    $destino = "/imagens".$nome;
 
     //Movendo o arquivo da area temporaria para a pasta final
     move_uploaded_file($temporario, $destino);
@@ -80,7 +80,7 @@ function formataData($data){
 
 
 /* Usada em noticia-atualiza.php */
-function lerUmaNoticia($conexao, $idNoticia, $idUsuario){
+function lerUmaNoticia($conexao, $idNoticia){
 
     $sql = "SELECT * FROM noticias WHERE id = $idNoticia"; 
 
@@ -94,7 +94,7 @@ function lerUmaNoticia($conexao, $idNoticia, $idUsuario){
 
 
 /* Usada em noticia-atualiza.php */
-function atualizarNoticia($conexao, $titulo, $texto, $resumo, $imagem, $idNoticia, $idUsuario,){
+function atualizarNoticia($conexao, $titulo, $texto, $resumo, $imagem, $idNoticia){
     
   $sql = "UPDATE noticias SET titulo = '$titulo', texto = '$texto', resumo = '$resumo', imagem = '$imagem' WHERE id = '$idNoticia'";
 
@@ -104,7 +104,7 @@ function atualizarNoticia($conexao, $titulo, $texto, $resumo, $imagem, $idNotici
 
 
 /* Usada em noticia-exclui.php */
-function excluirNoticia($conexao, $idUsuario, $idNoticia){
+function excluirNoticia($conexao, $idNoticia){
 
     $sql = "DELETE FROM noticias WHERE id = $idNoticia";
 
@@ -150,18 +150,3 @@ function lerDetalhes($conexao, $id){
 
 } // fim lerDetalhes
 
-
-// /* Usada em resultados.php */
-// function busca($conexao, $termoDigitado){ 
-//     $sql = "SELECT * FROM noticias
-//             WHERE titulo LIKE '%$termoDigitado%'  OR
-//                 resumo LIKE '%$termoDigitado%'  OR
-//                 texto  LIKE '%$termoDigitado%'
-//             ORDER BY data DESC";
-    
-//     $resultado = mysqli_query($conexao, $sql) 
-//                 or die (mysqli_error($conexao));
-
-//     return mysqli_fetch_all($resultado, MYSQLI_ASSOC);
-
-// } // fim busca
