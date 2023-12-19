@@ -2,8 +2,8 @@
 
 
 $servidor = "localhost";
-$usuario = "root";
-$senha = "";
+$usuario = "id21693711_pastor";
+$senha = "123Pastor@";
 $banco = "plena_paz";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $banco);
