@@ -23,7 +23,7 @@ require "vinculados/cabecalho.php";
 
                 <div class="color">
                     <div>
-                        <h2>Nossa missão em São Paulo</h2>
+                    <a href="004.php"> <h2>Nossa missão em São Paulo</h2></a>
                     </div>
 
                     <div>
@@ -38,7 +38,7 @@ require "vinculados/cabecalho.php";
 
                 <div class="color">
                     <div>
-                        <h2>Há Esperança para aquele que pecou</h2>
+                    <a href="003.php"> <h2>Há Esperança para aquele que pecou</h2></a>
                     </div>
 
                     <div>
@@ -52,7 +52,7 @@ require "vinculados/cabecalho.php";
 
                 <div class="color">
                     <div>
-                        <h2>O Conhecimento de Deus, uma Verdade Consoladora</h2>
+                    <a href="001.php"><h2>O Conhecimento de Deus, uma Verdade Consoladora</h2><a>
                     </div>
 
                     <div>
@@ -66,7 +66,7 @@ require "vinculados/cabecalho.php";
 
                 <div class="color">
                     <div>
-                        <h2>Os Pilares da Reforma Protestante</h2>
+                    <a href="002.php"><h2>Os Pilares da Reforma Protestante</h2></a>
                     </div>
 
                     <div>
