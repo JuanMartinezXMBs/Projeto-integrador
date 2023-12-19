@@ -13,15 +13,15 @@ body, h1, h2, p, figure {
     justify-content: center;
 
 }
-    .foto {
-    width: 300px;
-    height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin: 20px;
-    border: black 5px 1px 5px;
-    border-radius: 25%;
+.foto {
+width: 300px;
+height: auto;
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin: 20px;
+border: black 5px 1px 5px;
+border-radius: 25%;
 }
 
 .wrapcentralizar {
@@ -58,6 +58,12 @@ body {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
+.boxN img {
+    max-width: 628px;
+    width: 100%;
+    height: 351px;
+} /* classe utilizada para o tamanho das noticias no index.php */
+
 .box1 {
     width: 100%;
     height: 200px;
@@ -72,49 +78,11 @@ body {
 
 
 .container1 {
-    background-image: url('../imagens-notiias/missao-de-deus.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     max-width: 628px;
     width: 100%;
-    height: 351px;
-    padding: 5px;
-    margin: 10px;
-}
-
-.container2 {
-    background-image: url('../imagens-notiias/pecador.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    max-width: 628px;
-    width: 100%;
-    height: 351px;
-    padding: 5px;
-    margin: 10px;
-}
-
-.container3 {
-    background-image: url('../imagens-notiias/deus-sol-oracao.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    max-width: 628px;
-    width: 100%;
-    height: 351px;
-    padding: 5px;
-    margin: 10px;
-}
-
-.container4 {
-    background-image: url('../imagens-notiias/reforma-protestante.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    max-width: 628px;
-    width: 100%;
-    height: 351px;
     padding: 5px;
     margin: 10px;
 }

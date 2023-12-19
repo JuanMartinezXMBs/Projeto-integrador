@@ -12,7 +12,6 @@ if( !$conexao ){
 die("deu ruim".mysqli_connect_error());
 }else{}
 
-echo "Conexão bem-sucedida!";
 ?>
 
 

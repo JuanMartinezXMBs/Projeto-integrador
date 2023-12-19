@@ -7,11 +7,10 @@ $idNoticia = mysqli_real_escape_string($conexao, $_GET['id']);
 
 /* Capturando o usuario logado (id) e o tipo dele (tipo) */
 $idUsuario = $_SESSION['id'];
-$tipoUsuario = $_SESSION['tipo'];
 
 /* Chamamos a função e passamos os parametros */
 $noticia = lerUmaNoticia(
-    $conexao,  $idNoticia, $idUsuario, $tipoUsuario);
+    $conexao,  $idNoticia, $idUsuario);
     
 if(isset($_POST['atualizar'])){
     $texto = htmlspecialchars($_POST['texto']);
@@ -30,7 +29,7 @@ if(isset($_POST['atualizar'])){
         upload($_FILE['imagem']);
     }
 
-    atualizarNoticia($conexao, $titulo, $texto, $resumo, $imagem, $idNoticia, $idUsuario, $tipoUsuario);
+    atualizarNoticia($conexao, $titulo, $texto, $resumo, $imagem, $idNoticia, $idUsuario);
 
     header("location:noticias.php");
 
@@ -82,8 +81,3 @@ if(isset($_POST['atualizar'])){
 
     </article>
 </div>
-
-
-<?php
-require_once "rodape.php";
-?>

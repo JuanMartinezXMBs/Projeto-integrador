@@ -5,9 +5,9 @@ require "vinculados/cabecalho.php";
     <main>
     <div class="centralizar">
 
-    <div class="box">
+    <div class="box container1">
         <figure>
-            <img src="imagens/imagem_05_jesus.jpg" alt="">
+            <img src="./imagens-notiias/deus-sol-oracao.jpg" alt="">
         </figure>
     </div>
 

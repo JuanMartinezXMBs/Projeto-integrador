@@ -1,5 +1,5 @@
 <?php
-require "funcoes-noticias.php";
+require_once "../vinculados/funcoes-noticias.php";
 require "funcoes-sessao.php";
 verificaAcesso();
 

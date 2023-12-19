@@ -1,5 +1,5 @@
 <?php 
-require_once "funcoes-noticias.php";
+require_once "../vinculados/funcoes-noticias.php";
 require_once "cabecalho-admin.php";
 
 if(isset($_POST['inserir'])){
@@ -25,7 +25,7 @@ if(isset($_POST['inserir'])){
 ?>
 
 
-<div class="row">
+<div class="row"
 	<article class="col-12 bg-white rounded shadow my-1 py-4">
 		
 		<h2 class="text-center">

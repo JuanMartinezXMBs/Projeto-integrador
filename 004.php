@@ -5,9 +5,9 @@ require "vinculados/cabecalho.php";
     <main>
     <div class="centralizar">
 
-    <div class="box">
+    <div class="box container1">
         <figure>
-            <img src="imagens/imagem_02_homem.jpg" alt="">
+            <img src="./imagens-notiias/reforma-protestante.jpg" alt="">
         </figure>
     </div>
 

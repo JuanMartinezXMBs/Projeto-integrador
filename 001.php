@@ -5,7 +5,7 @@ require "vinculados/cabecalho.php";
     <main>
     <div class="centralizar">
 
-    <div class="box">
+    <div class="box container1">
         <figure>
             <img src="imagens/imagem_02_homem.jpg" alt="">
         </figure>

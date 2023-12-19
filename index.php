@@ -1,5 +1,8 @@
 <?php
 require "vinculados/cabecalho.php";
+require "vinculados/funcoes-noticias.php";
+
+$listaDeNoticias = lerTodasAsNoticias ($conexao); 
 ?>
 <main>
     <div class="centralizar ">
@@ -20,26 +23,31 @@ require "vinculados/cabecalho.php";
                 18h30 e 20h30 | Segunda: 20h30
             </p>
         </div>
+  
+<div>
+    
+<?php foreach($listaDeNoticias as $noticia){ ?>
+		<div class="box boxN teste">
+            <article class="card shadow-sm h-100">
+                <a href="noticia.php?id=<?=$noticia['id']?>" class="card-link">
+                    <img src="./imagens/<?=$noticia ['imagem']?>" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h3 class="fs-4 card-title"><?=$noticia ['titulo']?></h3>
+                        <p class="card-text"><?=$noticia ['resumo']?></p>
+                    </div>
+                </a>
+            </article>
+		</div>
+<?php }?>
 
-        <div class="box teste container1">
+</div>
 
-            <div class="color">
-            <div>
-                <h2>Lorem ipsum dolor sit amet consectetur</h2>
-            </div>
 
-            <div >
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio provident numquam blanditiis nesciunt aspernatur et culpa, dolorum laboriosam recusandae quo?</p>
-            </div>
-            </div>
+</div>
 
-        </div>
+<div class="box1 "></div> <!-- espaço vazio -->
 
-    </div>
-
-    <div class="box1 "></div> <!-- espaço vazio -->
-
-    </div>
+</div>
 </main>
 
 <?php
