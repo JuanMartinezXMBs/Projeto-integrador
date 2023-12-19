@@ -7,7 +7,7 @@ require "vinculados/cabecalho.php";
 
     <div class="box container1">
         <figure>
-            <img src="./imagens-notiias/reforma-protestante.jpg" alt="">
+            <img src="./imagens/reforma-protestante.jpg" alt="">
         </figure>
     </div>
 

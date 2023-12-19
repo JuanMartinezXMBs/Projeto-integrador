@@ -41,7 +41,7 @@ require "vinculados/cabecalho.php";
                     <div>
                     <a href="002.php"> <h2>Há Esperança para aquele que pecou</h2></a>
                     </div>
-                    <a href="002.php"><img src="./imagens-notiias/pecador.jpg" alt=""></a>
+                    <a href="002.php"><img src="./imagens/pecador.jpg" alt=""></a>
                     <div>
                         <p>“Aquele que encobre as suas transgressões jamais prosperará, mas quem as confessa e deixa alcançará misericórdia” (Provérbios 28.13). </p>
                     </div>
@@ -55,7 +55,7 @@ require "vinculados/cabecalho.php";
                     <div>
                     <a href="003.php"><h2>O Conhecimento de Deus, a Verdade Consoladora</h2></a>
                     </div>
-                    <a href="003.php"><img src="./imagens-notiias/deus-sol-oracao.jpg" alt=""></a>
+                    <a href="003.php"><img src="./imagens/deus-sol-oracao.jpg" alt=""></a>
                     <div>
                         <p>“O Senhor é bom, é fortaleza no dia da angústia e conhece os que nele se refugiam” (Na 1.7). Vamos analisar essas três verdades.</p>
                     </div>
@@ -69,7 +69,7 @@ require "vinculados/cabecalho.php";
                     <div>
                     <a href="004.php"><h2>Os Pilares da Reforma Protestante</h2></a>
                     </div>
-                    <a href="004.php"><img src="./imagens-notiias/reforma-protestante.jpg" alt=""></a>
+                    <a href="004.php"><img src="./imagens/reforma-protestante.jpg" alt=""></a>
                     <div>
                         <p>A Reforma Protestante foi o maior acontecimento na igreja cristã depois do Pentecostes.</p>
                     </div>
