@@ -1,11 +1,11 @@
 <?php
-require "conecta.php";
+require "../vinculados/conecta.php";
 
 /* Usada em noticia-insere.php */
-function lerNoticias($conexao, $idUsuario, $tipoUsuario){
+function lerNoticias($conexao, $idUsuario){
     
     /* Verificando se o tipo de usuário é admin */
-    if ( $tipoUsuario == 'admin' ) {
+    
         // SQL do admin: pode carregar/ver TUDO de TODOS
         $sql = "SELECT 
                     noticias.id, 
@@ -15,11 +15,7 @@ function lerNoticias($conexao, $idUsuario, $tipoUsuario){
                 FROM noticias JOIN usuarios
                 ON noticias.usuario_id = usuarios.id
                 ORDER BY data DESC";
-    } else {
-        /* SQL do editor: pode carregar/ver TUDO DELE SOMENTE */
-        $sql = "SELECT id, titulo, data FROM noticias 
-                WHERE usuario_id = $idUsuario ORDER BY data DESC";
-    }
+    
     
     // Executando a consulta e guardando o resultado dela
     $resultado = mysqli_query($conexao, $sql) or die(mysqli_error($conexao));

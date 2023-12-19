@@ -5,11 +5,9 @@ require_once "cabecalho-admin.php";
 // id do usuário logado
 $idUsuario = $_SESSION['id'];
 
-// tipo do usuário logado
-$tipoUsuario = $_SESSION['tipo'];
 
 // Chamando a função e passando os parâmetros
-$listaDeNoticias = lerNoticias($conexao, $idUsuario, $tipoUsuario);
+$listaDeNoticias = lerNoticias($conexao, $idUsuario);
 
 ?>
 
@@ -34,10 +32,7 @@ $listaDeNoticias = lerNoticias($conexao, $idUsuario, $tipoUsuario);
 					<tr>
                         <th>Título</th>
                         <th>Data</th>
-
-						<?php if($tipoUsuario == "admin"){?>
                         <th>Autor</th>
-						<?php }?>
 
 						<th class="text-center">Operações</th>
 					</tr>
@@ -49,10 +44,7 @@ $listaDeNoticias = lerNoticias($conexao, $idUsuario, $tipoUsuario);
 					<tr>
                         <td> <?=$noticia['titulo']?> </td>
                         <td> <?=$noticia['data']?> </td>
-
-						<?php if($tipoUsuario == "admin"){?>
                         <td> <?=$noticia['autor']?> </td>
-						<?php }?>
 
 						<td class="text-center">
 							<a class="btn btn-warning" 
@@ -75,8 +67,4 @@ $listaDeNoticias = lerNoticias($conexao, $idUsuario, $tipoUsuario);
 	</article>
 </div>
 
-
-<?php 
-require_once "rodape.php";
-?>
 

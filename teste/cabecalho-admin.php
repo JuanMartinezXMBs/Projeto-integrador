@@ -32,28 +32,21 @@ $pagina = basename($_SERVER['PHP_SELF']);
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-between">
   <div class="container">
-    <h1><a class="navbar-brand" href="index.php">Admin | Microblog</a></h1>
-
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <h1><a class="navbar-brand" href="../index.php">Admin | Plena Paz</a></h1>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                <a class="nav-link" href="index.php">Home</a>
+                <a class="nav-link" href="../index.php">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="meu-perfil.php">Meu perfil</a>
             </li>
 
-    <!-- Se o usuário logado for do tipo 'admin' -->
-    <?php if( $_SESSION['tipo'] == 'admin' ){ ?>
-        <!-- Então ele verá o item abaixo no menu -->            
+            
             <li class="nav-item">
               <a class="nav-link" href="usuarios.php">Usuários</a>
             </li>
-    <?php } ?>
             
             <li class="nav-item">
                 <a class="nav-link" href="noticias.php">Notícias</a>

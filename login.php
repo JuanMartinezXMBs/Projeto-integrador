@@ -20,10 +20,10 @@ if (isset($_POST['entrar'])) {
 	if ($usuario != null && password_verify($senha, $usuario['senha'])) {
 
 		
-		login($usuario['id'], $usuario['nome'], $usuario['tipo']);
+		login($usuario['id'], $usuario['nome'], );
 
 	
-		header("location:admin/index.php");
+		header("location:teste/perfil.php");
 
 		exit; 
 

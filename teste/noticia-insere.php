@@ -65,7 +65,3 @@ if(isset($_POST['inserir'])){
 </div>
 
 
-<?php 
-require_once "rodape.php";
-?>
-
