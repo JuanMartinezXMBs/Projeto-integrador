@@ -1,7 +1,7 @@
 <?php
 require "vinculados/cabecalho.php";
-require "vinculados/funcoes-usuarios.php";
-require "vinculados/funcoes-sessao.php";
+require "teste/funcoes-usuarios.php";
+require "teste/funcoes-sessao.php";
 
 if (isset($_POST['entrar'])) {
 

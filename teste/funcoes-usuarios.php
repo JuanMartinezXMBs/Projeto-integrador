@@ -1,11 +1,11 @@
 <?php
 require "conecta.php";
                         //PARÂMETROS
-function inserirUsuario($conexao, $email, $nome, $senha, $tipo){
+function inserirUsuario($conexao, $email, $nome, $senha){
 
     /* Montando uma variavel com o comando SQL de INSERT e com os dados (PARÂMETROS) recebidos peka função */
     $sql = "INSERT INTO usuarios(nome, email, senha, tipo)
-    VALUES('$nome','$email','$senha','$tipo')";
+    VALUES('$nome','$email','$senha')";
 
     /* Execute o comando SQL */
     mysqli_query($conexao, $sql) or die(mysqli_error($conexao));
@@ -33,13 +33,12 @@ function letUmUsuario($conexao, $id){
     return mysqli_fetch_assoc($resultado);
 }
 
-function atualizarUsuario($conexao, $id, $nome, $email, $senha, $tipo){
+function atualizarUsuario($conexao, $id, $nome, $email, $senha){
     $sql = "UPDATE usuarios SET
 
             nome = '$nome',
             email = '$email',
-            senha = '$senha',
-            tipo = '$tipo'
+            senha = '$senha'
 
             WHERE id = $id ";
 
